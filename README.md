@@ -1,4 +1,7 @@
-<img src="hozainlab-mark.gif" alt="Анимированный знак HozainLab" width="144" height="144">
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="hozainlab-mark.png">
+  <img src="hozainlab-mark.gif" alt="Каллиграфическая монограмма HozainLab" width="224" height="224">
+</picture>
 
 # HozainLab
 
