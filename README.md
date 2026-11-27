@@ -1,3 +1,5 @@
+<img src="hozainlab-mark.gif" alt="Анимированный знак HozainLab" width="144" height="144">
+
 # HozainLab
 
 **Код, дизайн интерфейсов и автоматизация с ИИ**
