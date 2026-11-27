@@ -1,16 +1,18 @@
-## Hi there 👋
+# Игорь Антонов
 
-<!--
-**190704igor-png/190704igor-png** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Делаю веб-прототипы и автоматизации с ИИ**
 
-Here are some ideas to get you started:
+Учусь заочно на прикладной информатике. Около двух лет работал в чат-поддержке. В личных проектах формулирую требования, собираю интерфейсы с помощью Codex и проверяю пользовательские сценарии. Ищу первую удалённую работу или оплачиваемую стажировку в разработке.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Избранные проекты
+
+| Проект | Что можно посмотреть |
+| --- | --- |
+| [AMORALLIS](https://amorallis.vast-acorn-4083.chatgpt.site/) | Адаптивная streetwear-витрина с анимацией эмблемы. |
+| [NOIR](https://github.com/190704igor-png/portfolio/tree/main/projects/noir) | Демо кинокаталога с поиском, который учитывает опечатки, и фильтрацией по жанру. |
+| [A.L.L. VPN](https://github.com/190704igor-png/portfolio/tree/main/projects/all-vpn) | Кабинет владельца и симуляция оформления подписки на тестовых данных. |
+| [Морской бой](https://github.com/190704igor-png/portfolio/tree/main/projects/battleship) | Две доски 10×10, проверка расстановки и сохранение хода игры. |
+
+**Инструменты в проектах** · Codex, Git и GitHub, HTML, CSS, JavaScript. В прототипах также использовались React, TypeScript, Python, FastAPI и SQLite.
+
+В [портфолио](https://github.com/190704igor-png/portfolio) собраны скриншоты, демонстрации и инструкции по запуску.
